@@ -1,4 +1,4 @@
-# Raccolta Appunti - LT-INFO-UNIPR
+# Raccolta Appunti - LT-INFO UNIPR
 Benvenuti nella repository degli appunti presi a lezione durante il mio percorso di studi in informatica. Qui troverete una raccolta di materiali utili per lo studio delle diverse materie affrontate durante il corso.
 
 # Struttura della Repository
